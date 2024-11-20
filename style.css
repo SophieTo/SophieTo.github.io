@@ -1,0 +1,24 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+h2{
+font-size: 18px;
+text-align: center;
+font-family: Courier New;
+color: #921b77	
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Comic Sans;
+color: #f93b86
+}
+
+body {
+text-align: center;
+background-color: #c3e7e4
+}
